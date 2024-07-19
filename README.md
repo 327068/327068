@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 <h1 align="center">👋, I'm Viki</h1>
-<h3 align="center">A passionate #Er. with interest in Business Developement</h3>
+<h3 align="center">A passionate #Er. with interest in Business Analyst</h3>
 
 - 👨‍💻 All of my projects are available at [https://github.com/327068/power-bi.git](https://github.com/327068/power-bi.git)
 
